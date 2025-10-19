@@ -1,0 +1,13 @@
+Cat_Dog_Data/
+data/
+*.pt
+*.pth
+runs/
+checkpoints/
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.vscode/
+*.zip
+plots/
+outputs/
