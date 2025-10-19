@@ -392,7 +392,7 @@ cnn-catsdogs-deeplearning/
 
 ##  Auteur
 
-**Deep Learning Project**  
+**NIAKO KEBE (Etudiante passionnée par la Data Science)**  
 Cours de Deep Learning - Octobre 2025  
 Plateforme : Google Colab (Tesla T4 GPU)
 
