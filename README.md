@@ -1,4 +1,7 @@
 #  CNN From Scratch vs Transfer Learning - Cats vs Dogs
+ **Application déployée :** [ Tester l’app sur Streamlit](https://cnn-vs-transfer-learning-cat-dog.streamlit.app/)
+
+---
 
 ##  Objectif
 
